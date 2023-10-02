@@ -1,0 +1,4 @@
+#Wed Aug 18 19:40:55 IST 2021
+base.0=/Users/debanshudebs/AndroidStudioProjects/Android-Attendance-App-master/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
